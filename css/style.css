@@ -1,7 +1,7 @@
 body {
-    font-family: "Helvetica Neue", "Roboto", "Verdana", sans-serif;
-    color: #2a2a2a;
-	background-color: #fafafa;
+    font-family: "Roboto", sans-serif;
+    color:  #434455;
+	background-color: #FFFFFF;
 
 }
 
@@ -9,8 +9,6 @@ body {
     color:#4D5AE5; 
     font-family: "Raleway",sans-serif;     
     font-size: 18px;
-    width: 44px;
-    height: 21px;
     font-weight: 700;
 }
 .logostudio-main {
