@@ -1,0 +1,95 @@
+body {
+    font-family: "Helvetica Neue", "Roboto", "Verdana", sans-serif;
+    color: #2a2a2a;
+	background-color: #fafafa;
+
+}
+
+.logoweb{
+    color:#4D5AE5; 
+    font-family: "Raleway",sans-serif;     
+    font-size: 18px;
+    width: 44px;
+    height: 21px;
+    font-weight: 700;
+}
+.logostudio-main {
+    color: #2E2F42;     
+}
+.logostudiofooter {   
+    color: #F4F4FD;      
+}
+
+.nav-item {
+    color:  #2E2F42;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+   
+}
+
+.maininfo{
+    color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;}
+
+    a {
+        text-decoration-line: none;
+        color: var(--color-slate);
+    }
+    a :hover,
+    a:focus {
+        color: var(--color-ocean);
+    
+
+}
+.baner {
+background-color: #2E2F42;
+color: #FFFFFF;
+font-weight: 700;
+
+}
+
+.buttonBaner {
+    background-color:#4D5AE5;
+    color:#FFFFFF ;
+    font-size: 16px;
+    font-weight: 500;
+}
+.features-list {
+    text-decoration: none;
+}
+.features-list li {
+    text-decoration: none;
+}
+li  h3 {
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+}
+li  p {
+    color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+
+}
+.group, .main-title {
+    color: #2E2F42;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+
+
+
+    
+
+footer{
+    background-color: #2E2F42;
+      
+}
+footer p{
+  color:#F4F4FD;
+  ;
+}
