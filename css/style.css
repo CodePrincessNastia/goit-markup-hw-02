@@ -22,7 +22,7 @@ body {
 }
 
 .nav-item {
-    color:  #2e2f42;
+    color: #2e2f42;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -55,9 +55,16 @@ a:focus {
 }
 .baner {
 background-color: #2E2F42;
-color: #FFFFFF;
-font-weight: 700;
 
+
+}
+.banner-heading {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02e;
 }
 
 .buttonBaner {
@@ -65,6 +72,8 @@ font-weight: 700;
     color:#FFFFFF ;
     font-size: 16px;
     font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
 }
 .features-list {
     text-decoration: none;
@@ -72,15 +81,20 @@ font-weight: 700;
 .features-list li {
     text-decoration: none;
 }
-li  h3 {
+.section-heading {
     color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+
 }
-li  p {
+.section-description {
     color: #434455;
     font-size: 16px;
     font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 
 }
 .group, .main-title {
