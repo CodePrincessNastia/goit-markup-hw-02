@@ -15,7 +15,7 @@ body {
     text-transform: uppercase;
 }
 .logostudio-main {
-    color: #2E2F42;     
+    color: #2e2f42;     
 }
 .logostudiofooter {   
     color: #F4F4FD;      
@@ -55,6 +55,7 @@ a:focus {
 }
 .baner {
 background-color: #2E2F42;
+letter-spacing: 0.02em;
 
 
 }
@@ -67,7 +68,7 @@ background-color: #2E2F42;
     letter-spacing: 0.02e;
 }
 
-.buttonBaner {
+.button_baner {
     background-color:#4D5AE5;
     color:#FFFFFF ;
     font-size: 16px;
@@ -75,6 +76,18 @@ background-color: #2E2F42;
     line-height: 1.5;
     letter-spacing: 0.04em;
 }
+.button_baner {
+    cursor: pointer;
+}
+.button_baner:hover {
+    background-color: #404BBF;
+
+}
+
+.button_baner:focus {
+    background-color: #404BBF; 
+ }
+
 .features-list {
     text-decoration: none;
 }
@@ -109,7 +122,7 @@ background-color: #2E2F42;
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
-.tem-member {
+.team_item {
     background-color: #FFFFFF;
 }
 .section-heading {
