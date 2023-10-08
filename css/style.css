@@ -31,7 +31,7 @@ body {
 }
 .address {
     font-style: normal;
-    letter-spacing: 0.02em;
+    
 } 
 
 .maininfo{
@@ -66,7 +66,7 @@ letter-spacing: 0.02em;
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
-    letter-spacing: 0.02e;
+    letter-spacing: 0.02em;
 }
 
 .button_baner {
