@@ -97,22 +97,73 @@ background-color: #2E2F42;
     letter-spacing: 0.02em;
 
 }
-.group, .main-title {
+.team {
+    background-color: #F4F4FD;
+}
+.group {
     color: #2E2F42;
     font-size: 36px;
     font-weight: 700;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
 }
+.tem-member {
+    background-color: #FFFFFF;
+}
+.section-heading {
+    color: #2e2f42  ;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+.section-description {
+    color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.main-title {
+    color:#2E2F42;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11 ;
+    text-align: center ;
+    letter-spacing: 0.02em ;
+    text-transform: capitalize;
+}
+.project-title {
+    color: #2e2f42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2 ;
+    letter-spacing: 0.02em;
 
 
-
-
+}
+.project-description{
+    color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5 ;
+    letter-spacing: 0.02em ;
+}
     
 
-footer{
+.site-footer{
     background-color: #2E2F42;
       
 }
-footer p{
+.footer-description{
   color:#F4F4FD;
-  ;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  
+  
+  
 }
